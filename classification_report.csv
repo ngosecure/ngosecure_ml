@@ -1,0 +1,5 @@
+class,f1_score,precision,recall,support
+     PartyA,0.89,0.8,1.0,4.0
+     PartyB,0.0,0.0,0.0,3.0
+     PartyC,0.4,0.25,1.0,1.0
+     PartyD,0.67,1.0,0.5,2.0

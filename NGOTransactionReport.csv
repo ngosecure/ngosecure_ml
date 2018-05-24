@@ -1,0 +1,33 @@
+COUNTRY,CITY,ORGANIZATION,DONOR,NOTARY,AMOUNT,TXN_TYPE,TIMESTAMP,REQUIRED
+US,New York,PartyB,PartyA,Notary Service,780,ISSUANCE,Sat May 19 19:20:36 IST 2018,PartyA
+GB,London,PartyA,PartyA,Notary Service,1800,SELF_ISSUANCE,Sat May 19 19:21:07 IST 2018,PartyA
+GB,London,PartyA,PartyA,Notary Service,3200,SELF_ISSUANCE,Sat May 19 19:34:11 IST 2018,PartyA
+IN,Chennai,PartyD,PartyA,Notary Service,760,ISSUANCE,Sat May 19 19:34:28 IST 2018,PartyA
+US,New York,PartyB,PartyA,Notary Service,780,SETTLEMENT,Sat May 19 19:34:45 IST 2018,PartyA
+IN,Chennai,PartyD,PartyA,Notary Service,650,SETTLEMENT,Sat May 19 19:34:54 IST 2018,PartyA
+FR,Paris,PartyC,PartyC,Notary Service,4000,SELF_ISSUANCE,Sat May 19 19:37:34 IST 2018,PartyC
+IN,Chennai,PartyD,PartyD,Notary Service,5600,SELF_ISSUANCE,Sat May 19 19:38:52 IST 2018,PartyD
+GB,London,PartyA,PartyA,Notary Service,4000,SELF_ISSUANCE,Sat May 19 22:27:18 IST 2018,PartyA
+US,New York,PartyB,PartyA,Notary Service,600,ISSUANCE,Sat May 19 23:13:30 IST 2018,PartyA
+GB,London,PartyA,PartyA,Notary Service,2000,SELF_ISSUANCE,Sat May 19 23:16:59 IST 2018,PartyA
+US,New York,PartyB,PartyA,Notary Service,400,SETTLEMENT,Sat May 19 23:17:09 IST 2018,PartyA
+US,New York,PartyB,PartyA,Notary Service,200,SETTLEMENT,Sat May 19 23:19:18 IST 2018,PartyA
+GB,London,PartyA,PartyB,Notary Service,450,ISSUANCE,Sat May 19 23:23:01 IST 2018,PartyB
+GB,London,PartyA,PartyB,Notary Service,400,SETTLEMENT,Sat May 19 23:23:25 IST 2018,PartyB
+IN,Chennai,PartyD,PartyC,Notary Service,800,ISSUANCE,Sat May 19 23:23:47 IST 2018,PartyC
+FR,Paris,PartyC,PartyC,Notary Service,900,SELF_ISSUANCE,Sat May 19 23:24:17 IST 2018,PartyC
+IN,Chennai,PartyD,PartyC,Notary Service,700,SETTLEMENT,Sat May 19 23:24:27 IST 2018,PartyC
+GB,London,PartyA,PartyA,Notary Service,900,SELF_ISSUANCE,Sat May 19 23:32:12 IST 2018,PartyA
+US,New York,PartyB,PartyA,Notary Service,300,ISSUANCE,Sat May 19 23:32:28 IST 2018,PartyA
+US,New York,PartyB,PartyA,Notary Service,170,SETTLEMENT,Sat May 19 23:32:48 IST 2018,PartyA
+GB,London,PartyA,PartyA,Notary Service,900,SELF_ISSUANCE,Sun May 20 00:21:53 IST 2018,PartyA
+FR,Paris,PartyC,PartyA,Notary Service,700,ISSUANCE,Sun May 20 00:22:12 IST 2018,PartyA
+FR,Paris,PartyC,PartyA,Notary Service,600,SETTLEMENT,Sun May 20 00:22:35 IST 2018,PartyA
+US,New York,PartyB,PartyB,Notary Service,800,SELF_ISSUANCE,Sun May 20 00:23:23 IST 2018,PartyB
+IN,Chennai,PartyD,PartyB,Notary Service,500,ISSUANCE,Sun May 20 00:23:36 IST 2018,PartyB
+IN,Chennai,PartyD,PartyB,Notary Service,400,SETTLEMENT,Sun May 20 00:23:55 IST 2018,PartyB
+GB,London,PartyA,PartyD,Notary Service,300,ISSUANCE,Sun May 20 00:24:50 IST 2018,PartyD
+GB,London,PartyA,PartyD,Notary Service,200,SETTLEMENT,Sun May 20 00:25:07 IST 2018,PartyD
+GB,London,PartyA,PartyA,Notary Service,900,SELF_ISSUANCE,Tue May 22 12:52:22 IST 2018,PartyA
+FR,Paris,PartyC,PartyA,Notary Service,1200,ISSUANCE,Tue May 22 12:53:38 IST 2018,PartyA
+FR,Paris,PartyC,PartyA,Notary Service,1200,SETTLEMENT,Tue May 22 12:54:23 IST 2018,PartyA
