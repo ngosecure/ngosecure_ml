@@ -1,0 +1,21 @@
+COUNTRY,CITY,ORGANIZATION,DONOR,NOTARY,AMOUNT,TXN_TYPE,TIMESTAMP
+US,New York,PartyA,PartyA,Notary Service,780,ISSUANCE,Sat May 19 19:20:36 IST 2018
+US,New York,PartyA,PartyA,Notary Service,780,SELF_ISSUANCE,Sat May 19 19:20:36 IST 2018
+US,New York,PartyA,PartyA,Notary Service,780,SETTLEMENT,Sat May 19 19:20:36 IST 2018
+US,New York,PartyB,PartyA,Notary Service,1500,ISSUANCE,Sat May 19 19:20:36 IST 2018
+US,New York,PartyB,PartyA,Notary Service,1500,SELF_ISSUANCE,Sat May 19 19:20:36 IST 2018
+US,New York,PartyB,PartyA,Notary Service,500,SETTLEMENT,Sat May 19 19:20:36 IST 2018
+US,New York,PartyC,PartyA,Notary Service,5000,ISSUANCE,Sat May 19 19:34:28 IST 2018
+US,New York,PartyC,PartyA,Notary Service,5000,SELF_ISSUANCE,Sat May 19 19:34:45 IST 2018
+US,New York,PartyC,PartyA,Notary Service,7500,SETTLEMENT,Sat May 19 19:34:54 IST 2018
+US,New York,PartyD,PartyC,Notary Service,15000,ISSUANCE,Sat May 19 19:37:34 IST 2018
+US,New York,PartyD,PartyD,Notary Service,15000,SELF_ISSUANCE,Sat May 19 19:38:52 IST 2018
+US,New York,PartyD,PartyA,Notary Service,12000,SETTLEMENT,Sat May 19 22:27:18 IST 2018
+US,New York,PartyA,PartyA,Notary Service,17500,SELF_ISSUANCE,Sat May 19 19:20:36 IST 2018
+US,New York,PartyA,PartyA,Notary Service,780,SETTLEMENT,Sat May 19 19:20:36 IST 2018
+US,New York,PartyB,PartyA,Notary Service,220,SELF_ISSUANCE,Sat May 19 19:20:36 IST 2018
+US,New York,PartyB,PartyA,Notary Service,1500,SETTLEMENT,Sat May 19 19:20:36 IST 2018
+US,New York,PartyC,PartyA,Notary Service,5000,SELF_ISSUANCE,Sat May 19 19:34:45 IST 2018
+US,New York,PartyC,PartyA,Notary Service,55000,SETTLEMENT,Sat May 19 19:34:54 IST 2018
+US,New York,PartyD,PartyD,Notary Service,125,SELF_ISSUANCE,Sat May 19 19:38:52 IST 2018
+US,New York,PartyD,PartyA,Notary Service,750,SETTLEMENT,Sat May 19 22:27:18 IST 2018
