@@ -20,7 +20,7 @@ train_data = pd.read_csv("NGOTransactionReportTrain.csv")
 # In[5]:
 
 
-test_data = pd.read_csv("NGOTransactionReportTest.csv")
+test_data = pd.read_csv("C:/BlockChain/Output/NGOTransactionReport.csv")
 
 
 # In[6]:
